@@ -47,7 +47,7 @@ I build the systems that power real-world products — robust APIs, scalable arc
 &nbsp;&nbsp;
 [![Download Resume](https://img.shields.io/badge/⬇️_Download_Resume-PDF-00C851?style=for-the-badge&logoColor=white)](https://github.com/Kushagra901/Kushagra901/raw/main/Kushagra_Resume.pdf)
 
-> 📌 **How to add your resume:** Upload your resume PDF named `Kushagra_Resume.pdf` directly into your `Kushagra901/Kushagra901` profile repository. The buttons above will automatically link to it!
+
 
 </div>
 
@@ -71,10 +71,16 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Kushagra901&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=Kushagra901&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra901&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra901&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10" />
 
-<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kushagra901&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+<div align="center">
+
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra901&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10" />
+&nbsp;
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra901&theme=tokyonight" />
 
 </div>
 
@@ -205,20 +211,58 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <div align="center">
 
-[![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kushagra901&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Kushagra901)
+[![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kushagra901&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff&line=00d9ff&point=ffffff&bg_color=0d1117&color=ffffff)](https://github.com/Kushagra901)
+
+</div>
+
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra901&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushagra901&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kushagra901&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
 ---
 
 <!-- ==================== FOOTER ==================== -->
+---
+
 <div align="center">
+
+### 💬 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Together
+
+*"The best backend is the one that scales silently and fails gracefully."*
+
+<br/>
+
+**🚀 Open to:** Collaborations &nbsp;|&nbsp; Freelance Projects &nbsp;|&nbsp; Open Source &nbsp;|&nbsp; AI/Backend Consulting
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushagra-srivastava-114132373/)
+[![Email](https://img.shields.io/badge/Drop_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushagrasrivastava025@gmail.com)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
+<br/>
+
 [![](https://visitcount.itsvg.in/api?id=Kushagra901&label=Unique%20Profile%20Views&icon=9&color=11&pretty=true)](https://visitcount.itsvg.in)
 
-**⭐ Star my repos if you find them useful | Let's build something amazing together! 🚀**
+<br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Kushagra-ff6b6b?style=for-the-badge)
 
 </div>
 
