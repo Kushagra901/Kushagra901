@@ -216,7 +216,7 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
-[![](https://komarev.com/ghpvc/?username=Kushagra901&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/Kushagra901)
+[![](https://visitcount.itsvg.in/api?id=Kushagra901&label=Unique%20Profile%20Views&icon=9&color=11&pretty=true)](https://visitcount.itsvg.in)
 
 **⭐ Star my repos if you find them useful | Let's build something amazing together! 🚀**
 
