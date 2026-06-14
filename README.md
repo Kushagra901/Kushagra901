@@ -71,16 +71,16 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra901&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra901&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra901&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra901&theme=tokyonight&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10" />
 
 </div>
 
 <div align="center">
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra901&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10" />
-&nbsp;
-<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra901&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra901&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushagra901&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra901&theme=tokyonight" />
 
 </div>
 
@@ -212,14 +212,6 @@ I build the systems that power real-world products — robust APIs, scalable arc
 <div align="center">
 
 [![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kushagra901&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff&line=00d9ff&point=ffffff&bg_color=0d1117&color=ffffff)](https://github.com/Kushagra901)
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra901&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushagra901&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kushagra901&theme=tokyonight&utcOffset=5.5" />
 
 </div>
 
