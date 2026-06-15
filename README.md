@@ -71,16 +71,34 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kushagra901&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra901&theme=tokyonight&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kushagra901&theme=tokyonight&hide_border=true&count_private=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&border_radius=10&card_width=400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagra901&theme=tokyonight&hide_border=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&border_radius=10&card_width=400&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 <div align="center">
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra901&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushagra901&theme=tokyonight" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra901&theme=tokyonight" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kushagra901&theme=tokyonight" width="260px" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kushagra901&theme=tokyonight" width="260px" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra901&theme=tokyonight" width="260px" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
