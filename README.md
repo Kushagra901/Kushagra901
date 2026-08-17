@@ -12,7 +12,7 @@
 <!-- ==================== ID BADGE + FEATURED PROJECTS ==================== -->
 <div align="center">
 
-<img src="lanyard.svg?v=2" alt="Kushagra's ID badge and featured projects" width="100%">
+<img src="featured-projects.svg?v=1" alt="Kushagra's featured projects" width="100%">
 
 </div>
 
@@ -73,7 +73,7 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <div align="center">
 
-<img src="stats.svg?v=1" alt="GitHub stats" width="48%">
+<img src="stats.svg?v=2" alt="GitHub stats" width="48%">
 <img src="langs.svg?v=1" alt="Top languages" width="48%">
 
 </div>
