@@ -1,0 +1,101 @@
+<svg viewBox="0 0 1160 560" width="1160" height="560" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <clipPath id="outerRound"><rect width="1160" height="560" rx="26"/></clipPath>
+  <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#080b10"/><stop offset="55%" stop-color="#0d1219"/><stop offset="100%" stop-color="#0a0e14"/>
+  </linearGradient>
+  <linearGradient id="iriGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#818cf8;#c084fc;#22d3ee" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="50%" stop-color="#818cf8"><animate attributeName="stop-color" values="#818cf8;#c084fc;#22d3ee;#818cf8" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="100%" stop-color="#c084fc"><animate attributeName="stop-color" values="#c084fc;#22d3ee;#818cf8;#c084fc" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient>
+  <pattern id="dotGrid2" width="26" height="26" patternUnits="userSpaceOnUse">
+    <circle cx="1.1" cy="1.1" r="1.1" fill="#22d3ee" opacity="0.05"/>
+  </pattern>
+</defs>
+
+<g clip-path="url(#outerRound)">
+  <rect width="1160" height="560" fill="url(#bgGrad)"/>
+  <rect width="1160" height="560" fill="url(#dotGrid2)"/>
+
+  <!-- header -->
+  <text x="60" y="92" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="800"
+        fill="#eef3f7">Featured Projects</text>
+  <text x="60" y="118" font-family="JetBrains Mono, Consolas, monospace" font-size="12.5"
+        fill="#7d8fa0">A few things I've shipped and am proud of</text>
+  <rect x="60" y="130" width="90" height="3" rx="1.5" fill="url(#iriGrad)"/>
+
+  <!-- column headers -->
+  <text x="60" y="158" font-family="JetBrains Mono, Consolas, monospace" font-size="11"
+        letter-spacing="1" fill="#5b6b78">PROJECT</text>
+  <text x="560" y="158" font-family="JetBrains Mono, Consolas, monospace" font-size="11"
+        letter-spacing="1" fill="#5b6b78">STACK</text>
+  <text x="1069" y="158" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace"
+        font-size="11" letter-spacing="1" fill="#5b6b78">TYPE</text>
+  <line x1="60" y1="168" x2="1100" y2="168" stroke="#1c2a38"/>
+
+  <!-- row 1 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.5s" fill="freeze"/>
+    <circle cx="64" cy="198" r="3" fill="url(#iriGrad)"/>
+    <text x="80" y="203" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" font-weight="600"
+          fill="#67e8f9" text-decoration="underline">Add your project name</text>
+    <rect x="560.0" y="188" width="58.4" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="589.2" y="203" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">Python</text>
+    <rect x="626.4" y="188" width="64.8" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="658.8" y="203" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">FastAPI</text>
+    <rect x="1038" y="188" width="62" height="21" rx="10.5" fill="none" stroke="url(#iriGrad)" stroke-width="1"/>
+    <text x="1069" y="203" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace"
+          font-size="9.5" fill="#eef3f7">API</text>
+    <line x1="60" y1="225" x2="1100" y2="225" stroke="#1c2a38"/>
+  </g>
+
+  <!-- row 2 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.46s" dur="0.5s" fill="freeze"/>
+    <circle cx="64" cy="262" r="3" fill="url(#iriGrad)"/>
+    <text x="80" y="267" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" font-weight="600"
+          fill="#67e8f9" text-decoration="underline">Add your project name</text>
+    <rect x="560.0" y="252" width="77.6" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="598.8" y="267" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">LangChain</text>
+    <rect x="645.6" y="252" width="58.4" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="674.8" y="267" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">OpenAI</text>
+    <rect x="1038" y="252" width="62" height="21" rx="10.5" fill="none" stroke="url(#iriGrad)" stroke-width="1"/>
+    <text x="1069" y="267" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace"
+          font-size="9.5" fill="#eef3f7">AI Agent</text>
+    <line x1="60" y1="289" x2="1100" y2="289" stroke="#1c2a38"/>
+  </g>
+
+  <!-- row 3 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.62s" dur="0.5s" fill="freeze"/>
+    <circle cx="64" cy="326" r="3" fill="url(#iriGrad)"/>
+    <text x="80" y="331" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" font-weight="600"
+          fill="#67e8f9" text-decoration="underline">Add your project name</text>
+    <rect x="560.0" y="316" width="64.8" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="592.4" y="331" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">Node.js</text>
+    <rect x="632.8" y="316" width="58.4" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="662.0" y="331" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">Docker</text>
+    <rect x="1038" y="316" width="62" height="21" rx="10.5" fill="none" stroke="url(#iriGrad)" stroke-width="1"/>
+    <text x="1069" y="331" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace"
+          font-size="9.5" fill="#eef3f7">Platform</text>
+    <line x1="60" y1="353" x2="1100" y2="353" stroke="#1c2a38"/>
+  </g>
+
+  <!-- row 4 -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="0.78s" dur="0.5s" fill="freeze"/>
+    <circle cx="64" cy="390" r="3" fill="url(#iriGrad)"/>
+    <text x="80" y="395" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" font-weight="600"
+          fill="#67e8f9" text-decoration="underline">Add your project name</text>
+    <rect x="560.0" y="380" width="52.0" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="586.0" y="395" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">React</text>
+    <rect x="620.0" y="380" width="84.0" height="21" rx="10.5" fill="#121b26" stroke="#243447"/><text x="662.0" y="395" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="10.5" fill="#7d8fa0">PostgreSQL</text>
+    <rect x="1038" y="380" width="62" height="21" rx="10.5" fill="none" stroke="url(#iriGrad)" stroke-width="1"/>
+    <text x="1069" y="395" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace"
+          font-size="9.5" fill="#eef3f7">Tool</text>
+    <line x1="60" y1="417" x2="1100" y2="417" stroke="#1c2a38"/>
+  </g>
+
+  <!-- quote -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" begin="1.05s" dur="0.6s" fill="freeze"/>
+    <rect x="60" y="475" width="3" height="40" fill="url(#iriGrad)"/>
+    <text x="80" y="493" font-family="Georgia, serif" font-style="italic" font-size="13"
+          fill="#7d8fa0">&#8220;The best backend is the one that scales silently and fails gracefully.&#8221;</text>
+  </g>
+</g>
+</svg>
