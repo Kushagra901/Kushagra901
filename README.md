@@ -73,8 +73,12 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <div align="center">
 
-<img src="stats.svg?v=2" alt="GitHub stats" width="48%">
-<img src="langs.svg?v=1" alt="Top languages" width="48%">
+<img src="stats.svg?v=3" alt="GitHub stats" width="48%">
+<img src="langs.svg?v=2" alt="Top languages" width="48%">
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra901&theme=tokyonight&hide_border=true&background=0d1117&border=1e2d3a&stroke=00d9ff&ring=ff9900&fire=ff9900&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=ff9900&sideLabels=7d8fa0&dates=7d8fa0" alt="GitHub Streak" width="100%">
 
 </div>
 
@@ -181,6 +185,21 @@ I build the systems that power real-world products — robust APIs, scalable arc
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kushagra901/Kushagra901/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kushagra901/Kushagra901/output/github-snake.svg">
   <img src="https://raw.githubusercontent.com/Kushagra901/Kushagra901/output/github-snake.svg" alt="contribution snake" width="100%">
+</picture>
+
+</div>
+
+---
+
+<!-- ==================== 3D CONTRIBUTIONS ==================== -->
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg">
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="100%">
 </picture>
 
 </div>

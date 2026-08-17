@@ -31,7 +31,7 @@
     <circle cx="200" cy="64" r="3" fill="#00d9ff"/>
     <text x="212" y="69" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#7d8fa0">Public Repos</text>
     <text x="465" y="69" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="13"
-          font-weight="700" fill="#e6edf3">10</text>
+          font-weight="700" fill="#e6edf3">13</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.14s" dur="0.5s" fill="freeze"/>
@@ -45,7 +45,7 @@
     <circle cx="200" cy="122" r="3" fill="#00d9ff"/>
     <text x="212" y="127" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#7d8fa0">Primary Stack</text>
     <text x="465" y="127" text-anchor="end" font-family="JetBrains Mono, Consolas, monospace" font-size="13"
-          font-weight="700" fill="#e6edf3">Python · TS · Go</text>
+          font-weight="700" fill="#e6edf3">JS · CSS · TS · Python</text>
   </g>
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" begin="1.42s" dur="0.5s" fill="freeze"/>
