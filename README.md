@@ -84,6 +84,39 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 ---
 
+<!-- ==================== SKILL RADAR ==================== -->
+## ⬡ Skill Radar
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Kushagra901/Kushagra901/main/assets/radar-dark.svg" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- ==================== 3D ISOMETRIC CALENDAR ==================== -->
+## 📅 ~/ contribution calendar
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kushagra901/Kushagra901/main/assets/metrics.isocalendar.svg" width="100%" />
+</div>
+
+---
+
+<!-- ==================== THE NUMBERS ==================== -->
+## 📊 ~/ the numbers
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kushagra901/Kushagra901/main/assets/card-stats-dark.svg" width="100%" />
+</div>
+
+---
+
 <!-- ==================== TECH STACK ==================== -->
 ## 💻 Tech Arsenal
 
