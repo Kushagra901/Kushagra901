@@ -205,7 +205,7 @@ I build the systems that power real-world products — robust APIs, scalable arc
 
 <div align="center">
 
-[![Kushagra's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kushagra901&theme=tokyo-night&hide_border=true&area=true&area_color=00d9ff&line=00d9ff&point=ffffff&bg_color=0d1117&color=ffffff)](https://github.com/Kushagra901)
+[![Kushagra's github activity graph](https://raw.githubusercontent.com/Kushagra901/Kushagra901/main/assets/activity-graph.svg)](https://github.com/Kushagra901)
 
 </div>
 
