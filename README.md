@@ -9,12 +9,20 @@
 
 </div>
 
-<!-- ==================== ID BADGE + FEATURED PROJECTS ==================== -->
-<div align="center">
+<!-- ==================== PROJECT HIGHLIGHTS ==================== -->
+### 🚨 Project Highlights
 
-<img src="featured-projects.svg?v=1" alt="Kushagra's featured projects" width="100%">
+| Project | Domain | Core Tech | What It Actually Does |
+| :--- | :--- | :--- | :--- |
+| [**Sentinel-IQ**](https://github.com/Kushagra901/Sentinel-IQ) | Cybersecurity Anomaly Detection | <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,docker" /><br>UEBA, Real-time Risk Scoring, SOC Analytics | AI-powered behavioral anomaly detection system that models user & entity baselines (UEBA), detects intrusions in real-time, and generates explainable natural-language briefs for SOC analysts. |
+| [**Legal Analyzer**](https://github.com/Kushagra901/Legal-analyzer) | Legal Tech & Contract Intelligence | <img src="https://skillicons.dev/icons?i=python,ts,react,fastapi" /><br>LLM Clause Extraction, NLP, Risk Flagging | AI-assisted first-pass review platform for contracts and NDAs, automating clause extraction, identifying liability risks, and providing plain-English legal summaries in minutes. |
+| [**Medical Portal**](https://github.com/Kushagra901/medical-portal) | Healthcare Management Platform | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" /><br>AI Chatbot, JWT Auth, REST APIs | Full-featured healthcare portal with role-based doctor/patient dashboards, appointment scheduling, digital prescription generation, lab report management, and an integrated AI health assistant. |
+| [**NeoCheck**](https://github.com/Kushagra901/neocheck) | Productivity & Life Management | <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" /><br>Framer Motion, Mongoose, REST APIs | Personal life-management system uniting task tracking, habit formation, and check-in workflows into an intuitive dashboard with smooth micro-interactions. |
+| [**Report AI**](https://github.com/Kushagra901/report-ai) | Automated Document Generation | <img src="https://skillicons.dev/icons?i=ts,react,vite,tailwind,supabase" /><br>OpenAI API, Lucide, Vitest | AI-assisted report generation tool leveraging large language models to synthesize complex datasets, extract business insights, and automate document formatting. |
+| [**Voice Shopping Assistant**](https://github.com/Kushagra901/Voice-Command-Shopping-Assistant-) | Voice-First Commerce & NLU | <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,express" /><br>Web Audio API, NLU, Bilingual Hinglish, PWA | Voice-first grocery list management app featuring natural language understanding, bilingual Hinglish code-switching, real-time waveform audio visualization, and offline PWA sync. |
+| [**Civic-Pulse**](https://github.com/Kushagra901/Civic-Pulse) | Civic Tech & Community Governance | <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,postgres,docker" /><br>Prisma ORM, Docker Compose, REST APIs | Community incident reporting and resolution platform enabling citizens to report local civic issues with automated routing, geo-tracking, and real-time municipal status updates. |
 
-</div>
+*Detailed project cards are kept below.*
 
 ---
 
